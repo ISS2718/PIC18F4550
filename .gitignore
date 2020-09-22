@@ -1,3 +1,22 @@
+# Mickro C
+*.asm
+*.bmk
+*.brk
+*.ini
+*.cof
+*.cp
+*.dbg
+*.dct
+*.dlt
+*.log
+*.lst
+*.mcl
+*.mcppi
+*.mcppi_callertable.txt
+*.user.dic
+*.wch
+*.cfg
+
 # Prerequisites
 *.d
 
